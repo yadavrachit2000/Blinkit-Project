@@ -1,5 +1,5 @@
-#![Blinkit img](https://github.com/user-attachments/assets/0a70f46b-8aac-4463-b286-c0fba8b7a092) 
- Blinkit Sales Analysis Dashboard  
+![Blinkit img](https://github.com/user-attachments/assets/0a70f46b-8aac-4463-b286-c0fba8b7a092) 
+# Blinkit Sales Analysis Dashboard  
 
 ## 📊 Overview  
 This project provides a comprehensive sales analysis dashboard for Blinkit, utilizing MySQL Workbench for data management and Power BI for data visualization. The dashboard offers insights into total sales, outlet performance, item sales distribution, and other key business metrics.
