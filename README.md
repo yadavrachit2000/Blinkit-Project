@@ -1,4 +1,4 @@
-![Blinkit img](https://github.com/user-attachments/assets/0a70f46b-8aac-4463-b286-c0fba8b7a092) 
+<img width="113" alt="blinkit i" src="https://github.com/user-attachments/assets/a98a3134-261e-412b-aad1-3dfdaf48eaf1" />
 # Blinkit Sales Analysis Dashboard  
 
 ## 📊 Overview  
